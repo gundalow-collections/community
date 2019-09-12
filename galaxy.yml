@@ -45,6 +45,20 @@ dependencies:
   ansible.vultr: '>=1.0'
   ansible.vyos: '>=1.0'
   ansible.windows: '>=1.0'
+  checkpoint.checkpoint: '>=1.0'
+  cisco.aci: '>=1.0'
+  cisco.ios: '>=1.0'
+  cisco.iosxr: '>=1.0'
+  cisco.nxos: '>=1.0'
+  f5.common: '>=1.0'
+  f5.bigip: '>=1.0'
+  f5.bigiq: '>=1.0'
+  google.gcp: '>=1.0'
+  huawei.cloudengine: '>=1.0'
+  huawei.cloud: '>=1.0'
+  juniper.junos: '>=1.0'
+  microsoft.azure: '>=1.0'
+  nokia.sros: '>=1.0'
 repository: null
 documentation: null
 homepage: null
