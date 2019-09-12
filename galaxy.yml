@@ -1,0 +1,51 @@
+namespace: ansible
+name: community
+version: 1.0.0
+readme: null
+authors: core team
+description: This is a meta collection that includes all community collections
+license: GPLv3+
+license_file: null
+tags: community
+dependencies:
+  ansible.network: '>=1.0'
+  ansible.a10: '>=1.0'
+  ansible.acme: '>=1.0'
+  ansible.aireos: '>=1.0'
+  ansible.alicloud: '>=1.0'
+  ansible.amazon: '>=1.0'
+  ansible.aruba: '>=1.0'
+  ansible.asa: '>=1.0'
+  ansible.avi: '>=1.0'
+  ansible.cloudstack: '>=1.0'
+  ansible.cloudscale: '>=1.0'
+  ansible.cnos: '>=1.0'
+  ansible.dellos: '>=1.0'
+  ansible.digital_ocean: '>=1.0'
+  ansible.dimensiondata: '>=1.0'
+  ansible.docker: '>=1.0'
+  ansible.emc: '>=1.0'
+  ansible.enos: '>=1.0'
+  ansible.exoscale: '>=1.0'
+  ansible.eos: '>=1.0'
+  ansible.frr: '>=1.0'
+  ansible.fortios: '>=1.0'
+  ansible.gitlab: '>=1.0'
+  ansible.hetzner: '>=1.0'
+  ansible.layer2: '>=1.0'
+  ansible.layer3: '>=1.0'
+  ansible.misc: '>=1.0'
+  ansible.network: '>=1.0'
+  ansible.nso: '>=1.0'
+  ansible.ovs: '>=1.0'
+  ansible.skydive: '>=1.0'
+  ansible.tower: '>=1.0'
+  ansible.unix: '>=1.0'
+  ansible.vmware: '>=1.0'
+  ansible.vultr: '>=1.0'
+  ansible.vyos: '>=1.0'
+  ansible.windows: '>=1.0'
+repository: null
+documentation: null
+homepage: null
+issues: null
